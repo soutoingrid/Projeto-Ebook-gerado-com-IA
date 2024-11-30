@@ -1,6 +1,8 @@
 # Projeto-Ebook-gerado-com-IA
 Projeto desenvolvido para a criação de um ebook digital, com as facilidades das ferramentas de IA aprendidos no curso "Bootcamp CAIXA IA Generativa com Microsoft Copilot". 
 
+[📕 Clique aqui para ver meu EBOOK](https://github.com/user-attachments/files/17967163/Desafio.-.criacao.de.E-Book.pdf)
+
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/) 
